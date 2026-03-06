@@ -1,0 +1,1 @@
+struct Card {\n    var question: String\n    var answer: String\n}\n\nstruct Deck {\n    var title: String\n    var cards: [Card] = []\n}\n
